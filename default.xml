@@ -5,7 +5,7 @@
   <remote name = "origin"
           fetch="https://github.com/" />
 
-  <default reversion="master"
+  <default revision="master"
           remote="origin"
           sync-j="4"/>
 
