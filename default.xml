@@ -5,11 +5,11 @@
   <remote name = "origin"
           fetch="https://github.com/" />
 
-  <default reversion="main"
+  <default reversion="master"
           remote="origin"
           sync-j="4"/>
 
   <project name="xiaoaiyan/BasicCoroutine"
            path="BasicCoroutine"/>
-           
+
 </manifest>
