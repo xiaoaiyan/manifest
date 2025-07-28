@@ -12,4 +12,6 @@
   <project name="xiaoaiyan/BasicCoroutine"
            path="BasicCoroutine"/>
 
+  <project name="xiaomengjie/BasicDraw"
+           path="BasicDraw"/>
 </manifest>
