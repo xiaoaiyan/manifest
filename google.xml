@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+  <remote name = "origin" 
+          fetch="https://github.com/" />
+
+  <default revision="main"
+           remote="origin"
+           sync-j="4"/>
+
+  <project name="android/architecture-samples"
+           path="architecture-samples"/>
+
+  <project name="android/compose-samples"
+           path="compose-samples"/>
+
+  <project name="android/nowinandroid"
+           path="nowinandroid"/>
+
+  <project name="android/sunflower"
+           path="sunflower"/>
+
+  <project name="android/uamp"
+           path="uamp"/>
+
+  <project name="android/ndk-samples"
+           path="ndk-samples"/>
+
+</manifest>
