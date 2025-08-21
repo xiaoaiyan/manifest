@@ -2,17 +2,12 @@
 
 <manifest>
 
-  <remote name = "origin" 
-          fetch="https://android.googlesource.com" />
+    <remote name="aosp" fetch="https://android.googlesource.com"/>
 
-  <default revision="android-14.0.0_r75"
-           remote="origin"
-           sync-j="4"/>
+    <default revision="refs/tags/android-14.0.0_r75" remote="aosp" sync-j="4" />
 
-  <project name="platform/frameworks/base"
-           path="frameworks/base"/>
+    <project path="frameworks/base" name="platform/frameworks/base"/>
 
-  <project name="platform/frameworks/native"
-           path="rameworks/native"/>
+    <project path="frameworks/native" name="platform/frameworks/native"/>
 
 </manifest>
