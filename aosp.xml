@@ -10,4 +10,6 @@
 
     <project path="frameworks/native" name="platform/frameworks/native"/>
 
+    <project path="packages/modules/Bluetooth" name="platform/packages/modules/Bluetooth"/>
+
 </manifest>
