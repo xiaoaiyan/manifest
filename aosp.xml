@@ -12,7 +12,10 @@
 
     <project path="packages/modules/Bluetooth" name="platform/packages/modules/Bluetooth"/>
 
+    <project path="packages/modules/Permission" name="platform/packages/modules/Permission"/>
+
     <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts"/>
 
     <project path="packages/apps/Car/Notification" name="platform/packages/apps/Car/Notification"/>
+    
 </manifest>
