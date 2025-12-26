@@ -17,5 +17,7 @@
     <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts"/>
 
     <project path="packages/apps/Car/Notification" name="platform/packages/apps/Car/Notification"/>
+
+    <project path="packages/services/Telecomm" name="platform/packages/services/Telecomm"/>
     
 </manifest>
