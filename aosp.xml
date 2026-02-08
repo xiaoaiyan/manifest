@@ -19,5 +19,7 @@
     <project path="packages/apps/Car/Notification" name="platform/packages/apps/Car/Notification"/>
 
     <project path="packages/services/Telecomm" name="platform/packages/services/Telecomm"/>
+
+    <project path="system/sepolicy" name="platform/system/sepolicy"/>
     
 </manifest>
