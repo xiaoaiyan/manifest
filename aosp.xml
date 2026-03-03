@@ -21,5 +21,7 @@
     <project path="packages/services/Telecomm" name="platform/packages/services/Telecomm"/>
 
     <project path="system/sepolicy" name="platform/system/sepolicy"/>
+
+    <project path="system/core" name="platform/system/core"/>
     
 </manifest>
