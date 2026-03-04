@@ -29,4 +29,6 @@
     <project path="system/logging" name="platform/system/logging"/>
 
     <project path="external/fmtlib" name="platform/external/fmtlib"/>
+
+    <project path="external/googletest" name="platform/external/googletest"/>
 </manifest>
