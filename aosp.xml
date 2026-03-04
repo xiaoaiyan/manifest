@@ -24,5 +24,7 @@
 
     <project path="system/core" name="platform/system/core"/>
 
+    <project path="system/libbase" name="platform/system/libbase"/>
+
     <project path="external/fmtlib" name="platform/external/fmtlib"/>
 </manifest>
