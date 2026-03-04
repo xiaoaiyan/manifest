@@ -26,5 +26,7 @@
 
     <project path="system/libbase" name="platform/system/libbase"/>
 
+    <project path="system/logging" name="platform/system/logging"/>
+
     <project path="external/fmtlib" name="platform/external/fmtlib"/>
 </manifest>
